@@ -82,7 +82,3 @@ Die einzelnen Phasen sind als ausführliche Berichte im PDF-Format dokumentiert:
 
 Sämtliche Tests wurden ausschließlich am eigenen WLAN, an eigenen Geräten und an selbst erstellten Testzielen durchgeführt. Angriffe auf fremde Netze oder Geräte sind in Österreich strafbar und ausschließlich mit ausdrücklicher Erlaubnis des Betreibers zulässig. Dieses Projekt dient der Ausbildung und dem Verständnis von Verteidigungsmaßnahmen.
 
-## Autor
-
-Tscheky, in Ausbildung zum IT-Netzwerktechniker am Schulungszentrum Fohnsdorf.
-GitHub: [Tscheky0](https://github.com/Tscheky0)
